@@ -1,4 +1,4 @@
-# Features
+# ✨ Features
 
 Enter any custom text
 Choose a font file (.ttf / .otf)
@@ -8,7 +8,7 @@ Configurable 3D depth (shadow offset)
 Live preview inside the app
 Save your text as a PNG image
 
-#🚀 How to use
+# 🚀 How to use
 
 Download and run the 3D_Text_Generator.exe file
 Enter your text
@@ -17,11 +17,11 @@ Adjust size, depth, and colors
 Preview the result
 Save your text as a PNG
 
-#📦 Requirements
+# 📦 Requirements
 
 Windows 10/11 (64-bit)
 No additional installation needed (all dependencies are bundled)
 
-#📜 License
+# 📜 License
 
 This project is released under the MIT License.
