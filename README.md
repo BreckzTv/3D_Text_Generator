@@ -1,4 +1,4 @@
-#✨ Features
+# Features
 
 Enter any custom text
 Choose a font file (.ttf / .otf)
